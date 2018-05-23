@@ -1,6 +1,7 @@
 # CatPhotoApp
 Learning HTML and CSS. 
 
+
 <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 <style>
   .red-text {
@@ -32,4 +33,18 @@ Learning HTML and CSS.
 
 <p>Click here for <a href="#">cat photos</a>.</p>
 
-<a href="#"><img class="smaller-image thick-green-border" src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back. "></a>
+<a href="#"><img class="smaller-image thick-green-border" alt="A cute orange cat lying on its back. " src="https://bit.ly/fcc-relaxing-cat"></a>
+
+<p>Things cats love:</p>
+<ul>
+  <li>cat nip</li>
+  <li>laser pointers</li>
+  <li>lasagna</li>
+</ul>
+<p>Top 3 things cats hate:</p>
+<ol>
+  <li>flea treatment</li>
+  <li>thunder</li>
+  <li>other cats</li>
+</ol>
+
