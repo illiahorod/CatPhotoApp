@@ -48,3 +48,14 @@ Learning HTML and CSS.
   <li>other cats</li>
 </ol>
 
+<form action="/submit-cat-photo">
+  <input type="text" placeholder="cat photo URL" required>
+  <button type="submit">Submit</button>
+  <label>
+    <input type="radio" name="indoor-outdoor"> Indoor
+  </label>
+  <label>
+    <input type="radio" name="indoor-outdoor"> Outdoor
+  </label>
+</form>
+
