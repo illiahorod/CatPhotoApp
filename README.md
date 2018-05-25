@@ -23,7 +23,6 @@ Learning HTML and CSS.
   <li>other cats</li>
 </ol>
 
-<form action="/submit-cat-photo">
   <input type="text" placeholder="cat photo URL" required>
   <button type="submit">Submit</button>
   <label>
@@ -32,5 +31,5 @@ Learning HTML and CSS.
   <label>
     <input type="radio" name="indoor-outdoor"> Outdoor
   </label>
-</form>
+
 
